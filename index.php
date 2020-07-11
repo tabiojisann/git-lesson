@@ -11,7 +11,8 @@
     <h1>これはGitの練習です</h1>
   </div>
   <?php
-    
+    echo "テスト";
   ?>
+  </div?
 </body>
 </html>
