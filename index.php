@@ -10,5 +10,8 @@
   <div class="container">
     <h1>これはGitの練習です</h1>
   </div>
+  <?php
+    echo "おはよう";
+  ?>
 </body>
 </html>
