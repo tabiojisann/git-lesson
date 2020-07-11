@@ -1,0 +1,10 @@
+.container {
+  height: 200vh;
+  width: 100%;
+  background-color: cornflowerblue;
+}
+
+h1 {
+  text-align: center;
+  line-height: 30vh;
+}
