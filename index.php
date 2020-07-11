@@ -13,9 +13,6 @@
   <?php
     echo "テスト";
   ?>
-  <?php
-    echo "テスト";
-  ?>
   </div?>
 </body>
 </html>
