@@ -13,6 +13,9 @@
   <?php
     echo "テスト";
   ?>
-  </div?
+  <?php
+    echo "テスト";
+  ?>
+  </div?>
 </body>
 </html>
